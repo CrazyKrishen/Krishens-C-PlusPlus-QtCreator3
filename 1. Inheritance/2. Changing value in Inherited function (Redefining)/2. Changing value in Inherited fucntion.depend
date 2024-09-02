@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1713956179 source:c:\users\krish\desktop\right inheritance\2. changing value in inherited fucntion\main.cpp
+	"Salary.h"
+	"Manager.h"
+	<iostream>
+
+1713955254 c:\users\krish\desktop\right inheritance\2. changing value in inherited fucntion\include\salary.h
+	<iostream>
+
+1713955408 source:c:\users\krish\desktop\right inheritance\2. changing value in inherited fucntion\src\salary.cpp
+	"Salary.h"
+	<iostream>
+
+1713957024 c:\users\krish\desktop\right inheritance\2. changing value in inherited fucntion\include\manager.h
+	"Salary.h"
+	<iostream>
+
+1713957024 source:c:\users\krish\desktop\right inheritance\2. changing value in inherited fucntion\src\manager.cpp
+	"Manager.h"
+
+1713957048 source:c:\users\krish\desktop\modules 2024\cos2614\lessons\chapter 6 inheritance and polymorphism\1. inheritance\2. changing value in inherited function (redefining)\main.cpp
+	"Salary.h"
+	"Manager.h"
+	<iostream>
+
+1713955254 c:\users\krish\desktop\modules 2024\cos2614\lessons\chapter 6 inheritance and polymorphism\1. inheritance\2. changing value in inherited function (redefining)\include\salary.h
+	<iostream>
+
+1713957024 c:\users\krish\desktop\modules 2024\cos2614\lessons\chapter 6 inheritance and polymorphism\1. inheritance\2. changing value in inherited function (redefining)\include\manager.h
+	"Salary.h"
+	<iostream>
+
+1713957024 source:c:\users\krish\desktop\modules 2024\cos2614\lessons\chapter 6 inheritance and polymorphism\1. inheritance\2. changing value in inherited function (redefining)\src\manager.cpp
+	"Manager.h"
+
+1713955408 source:c:\users\krish\desktop\modules 2024\cos2614\lessons\chapter 6 inheritance and polymorphism\1. inheritance\2. changing value in inherited function (redefining)\src\salary.cpp
+	"Salary.h"
+	<iostream>
+

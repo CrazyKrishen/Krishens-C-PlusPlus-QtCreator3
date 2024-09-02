@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1713952225 source:c:\users\krish\desktop\inheritance\salary\main.cpp
+	<iostream>
+	"Salary.h"
+	"Manager.h"
+
+1713951997 c:\users\krish\desktop\inheritance\salary\include\salary.h
+	<iostream>
+	<string>
+
+1713947244 source:c:\users\krish\desktop\inheritance\salary\src\salary.cpp
+	"Salary.h"
+
+1713952141 c:\users\krish\desktop\inheritance\salary\include\manager.h
+	<iostream>
+	"Salary.h"
+
